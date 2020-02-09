@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="840px" height="580px" viewBox="0 0 840 580" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>tasks-illustration@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-8.0%" y="-15.6%" width="122.3%" height="133.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="20" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="20" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="49.9984331%" y1="100%" x2="49.9984331%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-3" points="81.5992982 114.506099 81.5992982 103.948284 400.918596 38.0912343 400.918596 50.0443975"></polygon>
+        <filter x="-0.8%" y="-3.3%" width="103.1%" height="113.1%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="5" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-5" points="81.5992982 142.597821 81.5992982 132.040007 400.918596 68.1927143 400.918596 80.1361197"></polygon>
+        <filter x="-0.8%" y="-3.4%" width="103.1%" height="113.4%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="5" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.03 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-7" points="117.574035 152.077574 117.574035 135.967637 538.710877 79.0990405 538.710877 98.3216783"></polygon>
+        <filter x="-1.2%" y="-6.9%" width="104.7%" height="120.6%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="10" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-9" points="117.574035 195.381851 117.574035 179.271914 538.710877 130.403318 538.710877 149.625955"></polygon>
+        <filter x="-1.2%" y="-7.7%" width="104.7%" height="123.1%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="10" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tasks-illustration">
+            <rect id="Rectangle-2" x="0" y="0" width="840" height="580"></rect>
+            <g id="tasks-illustration-copy" filter="url(#filter-1)" transform="translate(106.000000, 79.000000)">
+                <g id="Group-26" transform="translate(64.789474, 0.232558)">
+                    <polygon id="Shape" fill="url(#linearGradient-2)" fill-rule="nonzero" points="0.595789474 106.531841 0.595789474 208.795414 482.177544 126.633732 482.177544 0.0831029436"></polygon>
+                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" points="7.52210526 96.5805822 7.52210526 182.633599 445.569825 105.793137 445.569825 2.52756546"></polygon>
+                    <path d="M56.0357895,127.405107 C56.0357895,140.19743 49.797193,152.08229 42.1733333,153.93625 C34.5494737,155.79021 28.5761404,147.105871 28.5761404,134.528216 C28.5761404,121.950561 34.6280702,110.134006 42.1733333,108.065376 C49.7185965,105.996747 56.0357895,114.612783 56.0357895,127.405107 Z" id="Shape" stroke="#DBDBDB" stroke-width="3.00000012"></path>
+                    <g id="Shape" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#DBDBDB" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Shape" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                        <use fill="#DBDBDB" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+                <g id="Group-28" transform="translate(0.000000, 151.558140)" fill-rule="nonzero">
+                    <polygon id="Shape" fill="#1C8E55" opacity="0.200000003" points="7.73754386 96.7890568 7.73754386 269.724345 627.901754 245.805986 627.901754 0.0831029436"></polygon>
+                    <polygon id="Shape" fill="#1C8E55" points="597.160702 9.5005692 597.160702 222.91088 0.478596491 252.678972 0.478596491 97.7854936"></polygon>
+                    <path d="M87.1214035,167.572451 C87.1214035,143.324606 76.1473684,125.155798 62.8645614,126.960969 C49.8470175,128.736868 39.4821053,149.091397 39.4821053,172.461051 C39.4821053,195.830704 49.8470175,214.058058 62.8645614,213.160351 C76.1964912,212.243129 87.1214035,191.830054 87.1214035,167.572451 Z" id="Shape" fill="#FFFFFF"></path>
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    </g>
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    </g>
+                    <polygon id="Shape" fill="#1C8E55" points="46.722807 171.02815 52.9986455 169.454576 59.2744839 179.677598 66.5099306 157.668401 74.2315789 157.668401 59.2744839 188.327045"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
